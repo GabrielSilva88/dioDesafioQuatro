@@ -1,0 +1,16 @@
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro.deps.json
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro.runtimeconfig.json
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro.runtimeconfig.dev.json
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro.dll
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/ref/dioDesafioQuatro.dll
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/bin/Debug/net5.0/dioDesafioQuatro.pdb
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.AssemblyInfo.cs
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.dll
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/ref/dioDesafioQuatro.dll
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.pdb
+/home/gabriel/Documentos/DioDesfioAll/dioDesafioQuatro/obj/Debug/net5.0/dioDesafioQuatro.genruntimeconfig.cache
